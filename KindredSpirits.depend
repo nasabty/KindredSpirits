@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1560926731 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\kindredspirits.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351542 c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\kindredspirits.h
+
+1560804750 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase01.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase02.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase03.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase04.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase05.c
+	<stdio.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase06.c
+	<stdio.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase07.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase08.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560813808 source:c:\users\nasba\desktop\kindred\kindredspirits\kindredspirits.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351542 c:\users\nasba\desktop\kindred\kindredspirits\kindredspirits.h
+
+1560351543 source:c:\users\nasba\desktop\kindred\kindredspirits\testcase08.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\desktop\kindred\kindredspirits\testcase09.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase09.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase10.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase11.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase12.c
+	<stdio.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase13.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase14.c
+	<stdio.h>
+	<stdlib.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase15.c
+	<stdio.h>
+	"KindredSpirits.h"
+
+1560351543 source:c:\users\nasba\onedrive\documents\data structures\projects\kindred\kindredspirits\testcase16.c
+	<stdio.h>
+	"KindredSpirits.h"
+
